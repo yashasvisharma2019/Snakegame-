@@ -70,12 +70,8 @@ python main.py
 
 ## Screenshot Idea
 
-You can add a gameplay screenshot here later:
 
-```md
-<img width="1920" height="1080" alt="image" src="[https://github.com/user-attachments/assets/9fc47d67-9b0e-4408-a740-3535e954d825](https://github.com/yashasvisharma2019/Snakegame-/blob/main/snakegame/snakegame.png)" />
-
-```
+![snakegame](https://github.com/yashasvisharma2019/Snakegame-/blob/main/snakegame/snakegame.png)
 
 ## Author
 
